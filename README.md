@@ -1,0 +1,1 @@
+# MotionSense-Enhancing-Life-through-Human-Activity-Recognition-HAR-
